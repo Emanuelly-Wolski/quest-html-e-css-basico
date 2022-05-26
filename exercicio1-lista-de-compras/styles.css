@@ -1,0 +1,33 @@
+body{
+    margin:auto;
+    padding: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(155, 85, 255);
+    color: white;
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+    font-size: 2em;
+    margin-top: 100px;
+    padding: 50px;
+}
+
+ul{
+    margin-left: 30px;
+}
+
+.produtos{
+    background-color:black;
+    font-size: 1em;
+    border: solid 2px;
+    border-radius: 20px;
+    border-color: black;
+    margin: auto;
+    padding: 15px;
+    width: 400px;
+    height:200px;    
+}
+
+

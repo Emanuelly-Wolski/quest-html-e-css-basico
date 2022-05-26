@@ -1,0 +1,21 @@
+body{
+    background-color: rebeccapurple;
+}
+
+h1{
+    text-align: center;
+    padding: 40px;
+}
+
+.texto{
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo-padrao{
+    background-color: #F5F5F5;
+}
+
+.paragrafo-destacado{
+    background-color: #F0CCE2;
+}
