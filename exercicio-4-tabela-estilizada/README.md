@@ -1,4 +1,4 @@
-# Desafio 4 - HTML e CSS básico ⚔
+## Desafio 4 - HTML e CSS básico ⚔
 
 Quest referente ao módulo de HTML e CSS básico, onde era necessário construir duas tabelas estilizadas de acordo com as seguintes especificações:
 
@@ -15,5 +15,5 @@ Quest referente ao módulo de HTML e CSS básico, onde era necessário construir
 ❗ Regra: não estilizar usando as tags HTML, crie classes para estilizar sua tabela. 
 EX: .produtos-casa th { … }
 
-# Visualização
+## Visualização
 [<img src="./tabelas-estilizadas.gif" alt="gif do site">]
