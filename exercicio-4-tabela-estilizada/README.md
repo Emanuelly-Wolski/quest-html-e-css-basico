@@ -1,6 +1,6 @@
 ## Desafio 4 - HTML e CSS básico ⚔
 
-Quest referente ao módulo de HTML e CSS básico, onde era necessário construir duas tabelas estilizadas de acordo com as seguintes especificações:
+Quest referente ao módulo de HTML e CSS básico do curso DevQuest, onde era necessário construir duas tabelas estilizadas de acordo com as seguintes especificações:
 
 📝 Fazer uma tabela de roupas com tamanho e valor da peça descrito em cada linha.
 
